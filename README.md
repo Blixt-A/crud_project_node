@@ -3,7 +3,7 @@ This repository contains a simple Movie API that are using Express.js. It provid
 ## Installation
 
 1. Clone the repository:
-git clone <repository-url>
+git clone git@github.com:Blixt-A/crud_project_node.git
 
 2. Install the dependencies:
 npm install
